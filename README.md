@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WanjiruNjogu478
 - 👀 I’m interested in software engineering, web development and also aspiring to learn ML and AI.
 - 🌱 I’m currently learning softare engineering and web development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on machine learning and artificial intelligence.
 - 📫 How to reach me rawannjogu@gmail.com.
 
 
